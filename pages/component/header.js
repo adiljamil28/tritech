@@ -9,7 +9,7 @@ import Image from "next/image";
 
 
 
-export const Header = () => {
+export default function Header(){
   return (
     <div>
               <div className="main-topbar py-4 bg-[#5dae45]">

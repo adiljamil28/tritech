@@ -1,6 +1,6 @@
 import React from 'react'
 
-export const MainBanner = () => {
+export default function MainBanner(){
   return (
     <div>
            <section className="main-banner flex items-center h-[116vh] bg-[url('/images/banner.png')] bg-cover">

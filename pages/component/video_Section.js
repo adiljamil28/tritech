@@ -1,7 +1,7 @@
 import React from 'react'
 import Image from 'next/image'
 
-export const Video_Section = () => {
+export default function Video_Section() {
     return (
         <div>
             <section className="happy bg-[#293356] pt-96 relative">

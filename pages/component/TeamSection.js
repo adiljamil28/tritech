@@ -1,7 +1,7 @@
 import React from 'react'
 import Image from 'next/image'
 
-export const TeamSection = () => {
+export default function TeamSection(){
     return (
         <div>
             <section className="team py-28 bg-[#293356]">

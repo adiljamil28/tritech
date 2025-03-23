@@ -2,7 +2,7 @@ import React from 'react'
 import Image from "next/image";
 
 
-export const About_Section = () => {
+export default function About_Section() {
   return (
     <div>
               <section className="abt-sec pt-28 pb-[26%] relative">

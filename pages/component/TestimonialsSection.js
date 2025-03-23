@@ -2,10 +2,13 @@ import React from 'react'
 import Image from 'next/image'
 import Slider from "react-slick";
 import { IoIosArrowForward, IoIosArrowBack } from "react-icons/io";
+import "slick-carousel/slick/slick.css";
+import "slick-carousel/slick/slick-theme.css";
 
 
 
-export const Testimonials = () => {
+
+export default function Testimonials(){
     const CustomNextArrow = (props) => {
         const { onClick } = props;
         return (

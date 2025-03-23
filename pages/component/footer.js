@@ -8,7 +8,7 @@ import { FaInstagram } from "react-icons/fa";
 import { FaYoutube } from "react-icons/fa6";
 import { IoLocationOutline } from "react-icons/io5";
 
-export const Footer = () => {
+export default function Footer() {
     return (
         <div>
             <footer className="footer bg-[#293356] py-20">

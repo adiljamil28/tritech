@@ -2,7 +2,7 @@ import React from 'react'
 import Image from "next/image";
 import Marquee from "react-fast-marquee";  
 
-export const ServiceSlider = () => {
+export default function ServiceSlider(){
   return (
     <div>
         <Marquee pauseOnHover='true'>
