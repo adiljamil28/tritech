@@ -13,7 +13,7 @@ export default function Testimonials(){
         const { onClick } = props;
         return (
           <div
-            className="absolute bg-[#5dae45] p-3 top-1/2 right-[-20%] transform -translate-y-1/2 cursor-pointer text-white text-5xl z-40"
+            className="absolute bg-[#5dae45] p-3 top-1/2 right-[0%] transform -translate-y-1/2 cursor-pointer text-white text-5xl z-40"
             onClick={onClick}
           >
             <IoIosArrowForward />
@@ -25,7 +25,7 @@ export default function Testimonials(){
         const { onClick } = props;
         return (
           <div
-            className="absolute bg-[#5dae45] p-3 top-1/2 left-[-20%] transform -translate-y-1/2 cursor-pointer text-white text-5xl z-40"
+            className="absolute bg-[#5dae45] p-3 top-1/2 left-[0%] transform -translate-y-1/2 cursor-pointer text-white text-5xl z-40"
             onClick={onClick}
           >
             <IoIosArrowBack />

@@ -11,8 +11,8 @@ export default function ServiceSlider(){
           <li className='transition-all duration-750 hover:-mt-3'>
             <a href="#">
               <div className="ser-box relative">
-              <h3 className="p-2 mt-2.5 text-white absolute text-3xl left-[13%] font-extrabold w-full">AI-Enhanced <span className="font-extralight italic">Creative </span></h3>
-                <Image className='rounded-xl' src="/images/ser-1.png" width={400} height={550} alt="service1" />
+              <h3 className="p-2 mt-2.5 text-white absolute text-3xl left-[8%] font-extrabold w-full">AI-Enhanced <span className="font-extralight italic">Creative </span></h3>
+                <Image className='rounded-xl' src="/images/ser-1.png" width={350} height={300} alt="service1" />
                 <div className="ser-items">
                   <ul className="ser-list flex flex-wrap absolute gap-2.5 left-[5%]">
                     <li className="text-white font-light text-[10px] space-x-1 rounded-full border-[1px] p-1.5">HTML</li>
@@ -31,8 +31,8 @@ export default function ServiceSlider(){
           <li className='transition-all duration-750  hover:-mt-3'>
             <a href="#">
               <div className="ser-box relative">
-              <h3 className="p-2 mt-2.5 text-white absolute text-3xl left-[13%] font-extrabold w-full">AI-Enhanced <span className="font-extralight italic">Creative </span></h3>
-                <Image className='rounded-xl' src="/images/ser-1.png" width={400} height={550} alt="service1" />
+              <h3 className="p-2 mt-2.5 text-white absolute text-3xl left-[8%] font-extrabold w-full">AI-Enhanced <span className="font-extralight italic">Creative </span></h3>
+                <Image className='rounded-xl' src="/images/ser-1.png" width={350} height={300} alt="service1" />
                 <div className="ser-items">
                   <ul className="ser-list flex flex-wrap absolute gap-2.5 left-[5%]">
                     <li className="text-white font-light text-[10px] space-x-1 rounded-full border-[1px] p-1.5">HTML</li>
@@ -51,8 +51,8 @@ export default function ServiceSlider(){
           <li className='transition-all duration-750  hover:-mt-3'>
             <a href="#">
               <div className="ser-box relative">
-              <h3 className="p-2 mt-2.5 text-white absolute text-3xl left-[13%] font-extrabold w-full">AI-Enhanced <span className="font-extralight italic">Creative </span></h3>
-                <Image className='rounded-xl' src="/images/ser-1.png" width={400} height={550} alt="service1" />
+              <h3 className="p-2 mt-2.5 text-white absolute text-3xl left-[8%] font-extrabold w-full">AI-Enhanced <span className="font-extralight italic">Creative </span></h3>
+                <Image className='rounded-xl' src="/images/ser-1.png" width={350} height={300} alt="service1" />
                 <div className="ser-items">
                   <ul className="ser-list flex flex-wrap absolute gap-2.5 left-[5%]">
                     <li className="text-white font-light text-[10px] space-x-1 rounded-full border-[1px] p-1.5">HTML</li>
@@ -71,8 +71,89 @@ export default function ServiceSlider(){
           <li className='transition-all duration-750  hover:-mt-3'>
             <a href="#">
               <div className="ser-box relative">
-              <h3 className="p-2 mt-2.5 text-white absolute text-3xl left-[13%] font-extrabold w-full">AI-Enhanced <span className="font-extralight italic">Creative </span></h3>
-                <Image className='rounded-xl' src="/images/ser-1.png" width={400} height={550} alt="service1" />
+              <h3 className="p-2 mt-2.5 text-white absolute text-3xl left-[8%] font-extrabold w-full">AI-Enhanced <span className="font-extralight italic">Creative </span></h3>
+                <Image className='rounded-xl' src="/images/ser-1.png" width={350} height={300} alt="service1" />
+                <div className="ser-items">
+                  <ul className="ser-list flex flex-wrap absolute gap-2.5 left-[5%]">
+                    <li className="text-white font-light text-[10px] space-x-1 rounded-full border-[1px] p-1.5">HTML</li>
+                    <li className="text-white font-light text-[10px] space-x-1 rounded-full border-[1px] p-1.5">CSS</li>
+                    <li className="text-white font-light text-[10px] space-x-1 rounded-full border-[1px] p-1.5">Key art & concept</li>
+                    <li className="text-white font-light text-[10px] space-x-1 rounded-full border-[1px] p-1.5">3D GenAI</li>
+                    <li className="text-white font-light text-[10px] space-x-1 rounded-full border-[1px] p-1.5">Static+</li>
+                    <li className="text-white font-light text-[10px] space-x-1 rounded-full border-[1px] p-1.5">Rapid branding</li>
+                    <li className="text-white font-light text-[10px] space-x-1 rounded-full border-[1px] p-1.5">Copy & concept</li>
+                  </ul>
+                </div>
+                
+              </div>
+            </a>
+          </li>
+
+          <li className='transition-all duration-750 hover:-mt-3'>
+            <a href="#">
+              <div className="ser-box relative">
+              <h3 className="p-2 mt-2.5 text-white absolute text-3xl left-[8%] font-extrabold w-full">AI-Enhanced <span className="font-extralight italic">Creative </span></h3>
+                <Image className='rounded-xl' src="/images/ser-1.png" width={350} height={300} alt="service1" />
+                <div className="ser-items">
+                  <ul className="ser-list flex flex-wrap absolute gap-2.5 left-[5%]">
+                    <li className="text-white font-light text-[10px] space-x-1 rounded-full border-[1px] p-1.5">HTML</li>
+                    <li className="text-white font-light text-[10px] space-x-1 rounded-full border-[1px] p-1.5">CSS</li>
+                    <li className="text-white font-light text-[10px] space-x-1 rounded-full border-[1px] p-1.5">Key art & concept</li>
+                    <li className="text-white font-light text-[10px] space-x-1 rounded-full border-[1px] p-1.5">3D GenAI</li>
+                    <li className="text-white font-light text-[10px] space-x-1 rounded-full border-[1px] p-1.5">Static+</li>
+                    <li className="text-white font-light text-[10px] space-x-1 rounded-full border-[1px] p-1.5">Rapid branding</li>
+                    <li className="text-white font-light text-[10px] space-x-1 rounded-full border-[1px] p-1.5">Copy & concept</li>
+                  </ul>
+                </div>
+                
+              </div>
+            </a>
+          </li>
+          <li className='transition-all duration-750  hover:-mt-3'>
+            <a href="#">
+              <div className="ser-box relative">
+              <h3 className="p-2 mt-2.5 text-white absolute text-3xl left-[8%] font-extrabold w-full">AI-Enhanced <span className="font-extralight italic">Creative </span></h3>
+                <Image className='rounded-xl' src="/images/ser-1.png" width={350} height={300} alt="service1" />
+                <div className="ser-items">
+                  <ul className="ser-list flex flex-wrap absolute gap-2.5 left-[5%]">
+                    <li className="text-white font-light text-[10px] space-x-1 rounded-full border-[1px] p-1.5">HTML</li>
+                    <li className="text-white font-light text-[10px] space-x-1 rounded-full border-[1px] p-1.5">CSS</li>
+                    <li className="text-white font-light text-[10px] space-x-1 rounded-full border-[1px] p-1.5">Key art & concept</li>
+                    <li className="text-white font-light text-[10px] space-x-1 rounded-full border-[1px] p-1.5">3D GenAI</li>
+                    <li className="text-white font-light text-[10px] space-x-1 rounded-full border-[1px] p-1.5">Static+</li>
+                    <li className="text-white font-light text-[10px] space-x-1 rounded-full border-[1px] p-1.5">Rapid branding</li>
+                    <li className="text-white font-light text-[10px] space-x-1 rounded-full border-[1px] p-1.5">Copy & concept</li>
+                  </ul>
+                </div>
+                
+              </div>
+            </a>
+          </li>
+          <li className='transition-all duration-750  hover:-mt-3'>
+            <a href="#">
+              <div className="ser-box relative">
+              <h3 className="p-2 mt-2.5 text-white absolute text-3xl left-[8%] font-extrabold w-full">AI-Enhanced <span className="font-extralight italic">Creative </span></h3>
+                <Image className='rounded-xl' src="/images/ser-1.png" width={350} height={300} alt="service1" />
+                <div className="ser-items">
+                  <ul className="ser-list flex flex-wrap absolute gap-2.5 left-[5%]">
+                    <li className="text-white font-light text-[10px] space-x-1 rounded-full border-[1px] p-1.5">HTML</li>
+                    <li className="text-white font-light text-[10px] space-x-1 rounded-full border-[1px] p-1.5">CSS</li>
+                    <li className="text-white font-light text-[10px] space-x-1 rounded-full border-[1px] p-1.5">Key art & concept</li>
+                    <li className="text-white font-light text-[10px] space-x-1 rounded-full border-[1px] p-1.5">3D GenAI</li>
+                    <li className="text-white font-light text-[10px] space-x-1 rounded-full border-[1px] p-1.5">Static+</li>
+                    <li className="text-white font-light text-[10px] space-x-1 rounded-full border-[1px] p-1.5">Rapid branding</li>
+                    <li className="text-white font-light text-[10px] space-x-1 rounded-full border-[1px] p-1.5">Copy & concept</li>
+                  </ul>
+                </div>
+                
+              </div>
+            </a>
+          </li>
+          <li className='transition-all duration-750  hover:-mt-3'>
+            <a href="#">
+              <div className="ser-box relative">
+              <h3 className="p-2 mt-2.5 text-white absolute text-3xl left-[8%] font-extrabold w-full">AI-Enhanced <span className="font-extralight italic">Creative </span></h3>
+                <Image className='rounded-xl' src="/images/ser-1.png" width={350} height={300} alt="service1" />
                 <div className="ser-items">
                   <ul className="ser-list flex flex-wrap absolute gap-2.5 left-[5%]">
                     <li className="text-white font-light text-[10px] space-x-1 rounded-full border-[1px] p-1.5">HTML</li>
